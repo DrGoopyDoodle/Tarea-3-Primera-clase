@@ -14,5 +14,5 @@ for i in range(3):
     if word in meme_dict.keys():
         print(meme_dict[word])
     else:
-        print("Mmmm.., no lo hemos encontrado, REINICIA el programa")
+        print("Mmmm.., no lo hemos encontrado,INTENTA DE NUEVO o REINICIA el programa")
 print("Listo! si quieres ver mas palabras reinicia el programa")
